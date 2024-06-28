@@ -1,7 +1,7 @@
 #Word转Html文本服务
 
 ```shell
-docker run -itd --name wordToHtml -p 8083:8083 diaojinlong/wordToHtml:v1.0.0
+docker run -itd --name wordToHtml -p 8083:8083 diaojinlong/word_to_html:v1.0.0
 ```
 
 # 使用方法
